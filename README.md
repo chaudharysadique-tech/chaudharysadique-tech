@@ -1,3 +1,14 @@
+# 💫 Hi 👋, I'm Chaudhary Sadique
+**A passionate AIML Engineer **
+
+Email Me 👉 ✉️ **sadiquechdhr@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** College project
+- 🌱 **I’m currently learning:** ML/DL
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** sadiquechdhr@gmail.com
+- 😄 **Pronouns:** sadique chaudhary
+- ⚡ **Fun fact:** I campus x and campus x love Me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaudhary_sadique) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sadique chaudhary) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Sadiquecha95344) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadiquechdhr@gmail.com) 
