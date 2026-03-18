@@ -9,8 +9,6 @@ Email Me 👉 ✉️ **sadiquechdhr@gmail.com** For Collaboration/Project or Any
 - 📫 **How to reach me:** sadiquechdhr@gmail.com
 - 😄 **Pronouns:** sadique chaudhary
 - ⚡ **Fun fact:** I love campus x and campus x love Me
-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaudhary_sadique) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sadique chaudhary) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Sadiquecha95344) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadiquechdhr@gmail.com) 
 # 💻 Tech Stack:
@@ -33,5 +31,9 @@ Email Me 👉 ✉️ **sadiquechdhr@gmail.com** For Collaboration/Project or Any
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=chaudharysadique-tech&color=yellow&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chaudharysadique-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
